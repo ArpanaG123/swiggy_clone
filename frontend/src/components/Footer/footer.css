@@ -1,0 +1,135 @@
+.footer{
+    background-color: black;
+    padding-bottom:4vw;
+}
+
+.innerFooter{
+    display: flex;
+}
+
+b{
+    color: grey;
+}
+
+.list1{
+    margin-top: 2vw;
+    margin-left:11vw;
+    line-height: 2.5vw;
+    width: 30vw;
+}
+
+.list2{
+    margin-top: 2vw;
+    margin-left:3vw;
+    line-height: 2.5vw;
+    width: 30vw;
+}
+
+.list3{
+    margin-top: 2vw;
+    margin-left:2vw;
+    line-height: 2.5vw;
+    width: 30vw;
+}
+
+.google-footer{
+    margin-top:10vw;
+    margin-left:8vw;
+}
+
+.googleFooter1{
+    width: 20vw;
+    height:7vw;
+    margin-bottom: 3vw;
+    border: 2px solid white;
+    border-radius:10px;
+}
+
+.horizonatlLine1{
+    background-color:gray;
+    height: 1vw;
+}
+
+.googleFooter2{
+    width: 20vw;
+    height: 7vw;
+    border: 2px solid white;
+    border-radius:10px;
+}
+
+.citiList{
+    display: flex;
+}
+
+.list4{
+    color: white;
+    margin-top: 3vw;
+    margin-left: 11vw;
+    line-height: 3vw;
+}
+
+.list5{
+    color: white;
+    margin-top: 6vw;
+    margin-left:9vw;
+    line-height: 3vw;
+}
+
+.list6{
+    color: white;
+    margin-top: 6vw;
+    margin-left:13vw;
+    line-height: 3vw;
+}
+
+.list7{
+    color: white;
+    margin-top: 6vw;
+    margin-left:13vw;
+    line-height: 3vw;
+}
+
+.lastFoot{
+    display: flex;
+}
+
+.swiggy-FooterLogo{
+    width:10vw;
+    margin-left: 12vw;
+    margin-top:3vw;
+}
+
+.copyrightSwiggy{
+    color: white;
+    font-size: 20px;
+    margin-left: 18vw;
+    margin-top:3vw;
+}
+
+.sponsorSWiggy{
+    margin-left:18vw;
+    margin-top:2vw;
+}
+
+.spons1{
+    width:2.5vw;
+    height:3vw;
+}
+
+.spons2{
+    width:2.5vw;
+    height:3vw;
+    margin-left:3vw;
+}
+
+.spons3{
+    width:2.5vw;
+    height:3vw;
+    margin-left:3vw;
+}
+
+.spons4{
+    width:2.5vw;
+    height:3vw;
+    margin-left:3vw;
+}

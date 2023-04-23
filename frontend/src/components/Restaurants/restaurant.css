@@ -1,0 +1,183 @@
+.HomeNavigation{
+    display: flex;
+}
+
+.mainLogo{
+    width:3vw;
+    height:3.5vw;
+    margin-top:1vw;
+    margin-left:7vw;
+}
+
+.locationMain{
+    position: relative;
+    left: 2vw;
+    top: -1vw;
+    font-weight: bold;
+    color: gray;
+}
+
+.mainLine{
+    width:9.5vw;
+    margin-left:11.8vw;
+    margin-top: -1vw;
+    font-weight: bold;
+    height:0.1vw;
+    background-color: black;
+    border: none;
+}
+
+.serachBar{
+    margin-left:26vw;
+    margin-top:2.2vw;
+    color:#2E3840;
+    font-weight:500;
+}
+.serachBar:hover{
+    color: #FF8B13;
+}
+
+i:hover{
+    color: #FF8B13;
+}
+
+.ri-search-line{
+    position: absolute;
+    top:2.4vw;
+    color: gray;
+}
+
+.serachLine{
+    position: absolute;
+    left:49vw;
+    font-size: 18px;
+}
+
+
+
+.restOffer{
+    margin-left:10vw;
+    margin-top:2.2vw;
+    color:#2E3840;
+    font-weight:500;
+}
+
+.restOffer:hover{
+    color: #FF8B13;
+}
+
+.ri-percent-line{
+    position: absolute;
+    top:2.4vw;
+    color: gray;
+}
+
+.spanOffer{
+    position: absolute;
+    left:59vw;
+    font-size: 18px;
+}
+
+.restuHelp{
+    margin-left:10vw;
+    margin-top:2.2vw;
+    color:#2E3840;
+    font-weight:500;
+}
+
+.restuHelp:hover{
+    color: #FF8B13;
+}
+
+.ri-question-fill{
+    position: absolute;
+    top:2.3vw;
+    font-size:20px;
+    color: gray;
+}
+
+
+.RestHelp{
+    position: absolute;
+    left:69vw;
+    font-size: 18px;
+}
+
+.signInRest{
+    margin-left:8vw;
+    margin-top:2.2vw;
+    color:#2E3840;
+    font-weight:500;
+    cursor: pointer;
+}
+
+.signInRest:hover{
+    color: #FF8B13;
+}
+
+.ri-admin-fill{
+    position: absolute;
+    top:2.5vw;
+    font-size:20px;
+    color: gray;
+}
+
+.signingRest{
+    position: absolute;
+    left:77.5vw;
+    font-size: 18px;
+    top:2.35vw;
+}
+
+.restCart{
+    margin-left:10.5vw;
+    margin-top:2.4vw;
+    color:#2E3840;
+    font-weight:500;
+}
+
+.restCart:hover{
+    color: #FF8B13;
+}
+
+.ri-shopping-cart-line{
+    position: absolute;
+    top:2.5vw;
+    font-size:20px;
+    color: gray;
+}
+
+.addingCart{
+    position: absolute;
+    left:87.5vw;
+    font-size: 18px;
+    top:2.35vw;
+}
+
+.carouselPage{
+    background-color:#171a29;
+    height:22vw;
+    margin-top:2vw;
+    color: white;
+}
+
+.imageCaro1{
+    width:19vw;
+    height:18vw;
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+}
+
+.quantityCount{
+    background-color: #FF8B13;
+    position: absolute;
+    height:20px;
+    width: 20px;
+    text-align: center;
+    top:1.5vw;
+    right:13.4vw;
+    color: white;
+    font-weight: bold;
+    border-radius: 50%;
+    padding:5px 5px 5px 5px;
+}

@@ -1,0 +1,201 @@
+.outerSidebar{
+    width: 33vw;
+    height:49.5vw;
+    position: fixed;
+    background-color: white;
+    margin-left:66.9vw;
+    transform: translateX(100%);
+    transition: all 0.5s;
+
+}
+
+.outerSidebar--open{
+    transform: translateX(0%);
+}
+
+.loginSidebar{
+    width: 33vw;
+    height:49.5vw;
+    background-color: white;
+    margin-left:66.87vw;
+    transform: translateX(100%);
+    transition: all 0.5s;
+    position: fixed;
+
+}
+
+.loginSidebar--open{
+    transform: translateX(0%);
+}
+
+
+.innerSidebar{
+    display: flex;
+    margin-top:3vw;
+}
+
+.signingSidebar{
+    float: right;
+    margin-top:-1.5vw;
+    float: left;
+    margin-left: 2vw;
+}
+
+.orSignup{
+    margin-left:-4.5vw;
+}
+
+.toAccountSidebar{
+    color: #FF8B13;
+    font-weight: bold;
+    margin-left:0.3vw;
+    
+}
+
+.alreadyUser{
+    text-decoration: none;
+}
+
+.registering{
+    text-decoration: none;
+}
+
+.logoSidebar{
+    width: 8vw;
+    margin-top: -5.5vw;
+    float: right;
+    margin-right:4vw;
+}
+
+.phoneNumberInput{
+    width: 20vw;
+    height:2vw;
+    margin-left: 2vw;
+    margin-top:2vw;
+    padding-left:1vw;
+    padding-top:0.5vw;
+    font-size:16px;
+    font-weight: lighter;
+}
+
+.nameInput{
+    width: 20vw;
+    height:2vw;
+    margin-left: 2vw;
+    padding-left:1vw;
+    padding-top:0.5vw;
+    font-size:16px;
+    font-weight: lighter;
+}
+
+.emailInput{
+    width: 20vw;
+    height:2vw;
+    margin-left: 2vw;
+    padding-left:1vw;
+    padding-top:0.5vw;
+    font-size:16px;
+    font-weight: lighter;
+}
+
+.referral{
+    font-size: 13px;
+    font-weight:500;
+    color:#5BC0F8;
+    margin-left: 2vw;
+    margin-top:1vw;
+    cursor: pointer;
+}
+
+.continueButton{
+    width: 22vw;
+    height:2.5vw;
+    margin-left: 2vw;
+    margin-top:1vw;
+    border: none;
+    background-color: #FF8B13;
+    color: white;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.acceptance{
+    margin-left: 2vw;
+    margin-top:1vw;
+    font-size: 10px;
+}
+
+.spanTerm{
+    color:#5BC0F8;
+    cursor: pointer;
+}
+
+.login{
+    font-size: 16px;
+    font-weight: bolder;
+    cursor: pointer;
+    position: absolute;
+    left:32vw;
+    top:6.5vw;
+}
+
+.loginHeadSide{
+    margin-top:1.5vw;
+    margin-left: 2vw;
+}
+
+.loginDisplay{
+    display: flex;
+    margin-left: 2vw;
+    margin-top: -1vw;
+}
+
+.createLog{
+    margin-left: 0.3vw;
+    font-weight: bold;
+    color: #FF8B13;
+}
+
+.loginImageSide{
+    width: 8vw;
+    margin-top: -5.5vw;
+    float: right;
+    margin-right:5.5vw;
+}
+
+.formPartLogin{
+    margin-top:6vw;
+}
+
+.login-withPhone{
+    width: 25vw;
+    height:3.5vw;
+    margin-left: 2vw;
+    padding-left:1vw;
+    padding-top:0vw;
+    font-size:16px;
+    font-weight: lighter;
+}
+
+.loginBut{
+    width: 26.5vw;
+    height:2.8vw;
+    margin-left: 2vw;
+    margin-top:1vw;
+    border: none;
+    background-color: #FF8B13;
+    color: white;
+    font-weight: bolder;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.loginPolicy{
+    font-size:12px;
+    margin-top: 1vw;
+    margin-left: 2vw;
+}
+
+.sapn1Login{
+    color: gray;
+}
